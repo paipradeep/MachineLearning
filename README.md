@@ -1,2 +1,2 @@
-# Regression
-Univariate and Multivariate Linear Regression (ipynb)
+# Machine Learning Jupyter Notebooks
+
